@@ -1,0 +1,38 @@
+{
+    "title": "Belajar Online di KODE",
+    "playlist": [
+        {
+            "id": 1,
+            "title": "Unit Testing JavaScript",
+            "thumbnail": "https://cdn.kode.id/public/courses/unit-testing.jpg",
+            "url": "https://kode-vod.kode.id/Trailer_UnitTestingJavascript-20190330073021584/MP4/Trailer_UnitTestingJavascript-20190330073021584.mp4",
+            "duration": "0:51",
+            "instructor": {
+                "name": "Riza Fahmi",
+                "avatar": "https://s3-ap-southeast-1.amazonaws.com/kode-images/public/avatars/riza.png"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Pengenalan MongoDB",
+            "thumbnail": "https://cdn.kode.id/public/courses/mongo-db.jpg",
+            "url": "https://kode-vod.kode.id/MongoDB_Trailer-20190330033253158/MP4/MongoDB_Trailer-20190330033253158.mp4",
+            "duration": "0:47",
+            "instructor": {
+                "name": "Wika Silo",
+                "avatar": "https://cdn.kode.id/public/instructors/wika.JPG"
+            }
+        },
+        {
+            "id": 3,
+            "title": "NodeJS Tingkat Pemula",
+            "thumbnail": "https://cdn.kode.id/public/courses/node-js.png",
+            "url": "https://kode-vod.kode.id/node-js-connecting-the-node-episode-1-20190402072024775/MP4/node-js-connecting-the-node-episode-1-20190402072024775.mp4",
+            "duration": "0:31",
+            "instructor": {
+                "name": "Raka Ardhi Prakoso",
+                "avatar": "https://s3-ap-southeast-1.amazonaws.com/kode-images/public/avatars/raka.png"
+            }
+        }
+    ]
+}
